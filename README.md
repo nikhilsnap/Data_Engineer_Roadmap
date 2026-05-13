@@ -9,6 +9,7 @@
 - **SQL - Structured Query Language**
   - [SQL Full Course For Data Engineers](https://youtu.be/YimMzb0mHkI?si=sfoOh5O9m5lH_OEI)
 
+  - https://www.youtube.com/watch?v=b0TCqhP2P7I&list=LL&index=9&t=6s - SQL part 2 (me)
 
 ## Module 2: Data Engineering Building Blocks
 
@@ -37,6 +38,7 @@
 - **PySpark Real-Time Scenarios**
   - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)
 
+https://www.youtube.com/watch?v=fOCiis31Ng4 - pyspark - interview questions (ME)
 
 ## Module 4: Git and GitHub - Bread and Butter for Data Engineers
 
@@ -62,7 +64,6 @@
 - **Databricks - The Complete Guide**
   - [Delta Lake - The Non Negotiable for Databricks Stack](https://youtu.be/HQvAl0Bwpu8?si=ChdUh86Wq8fkNl17)
   - https://www.youtube.com/watch?v=PhezTpntdyY&t=4132s - Delta lake live table(me)
-  - https://www.youtube.com/watch?v=CCc6w8lkAek&t=1s - - Delta lake live pipeline
   - [Databricks Fundamentals For Data Engineers](https://youtu.be/7pee6_Sq3VY?si=AQLXmiiEyODQvq_u)
   - [Databricks Modern Architecture With Unity Catalog](https://youtu.be/P5pEeR3xQpI?si=2q_lPGiIpI0bpxok)
   - [Databricks Lakeflow Declarative Pipelines - Delta Live Tables](https://youtu.be/CCc6w8lkAek?si=Dz0qdLPOo2OjhAvW)
