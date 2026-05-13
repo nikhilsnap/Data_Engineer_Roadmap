@@ -93,6 +93,9 @@ This section is the HEART of this ROADMAP. Here, you will learn how to build COM
 
   - [Azure Databricks End-To-End Project From SCRATCH!](https://youtu.be/4uKRzDf0zIc?si=jZDz1-FEWCO4tHol)
 
+- https://www.youtube.com/watch?v=0GTZ-12hYtU - azure end to end
+- https://www.youtube.com/watch?v=6_hXeNg9TJ0 - azuew end to end
+- 
   - [DBT X Databricks Project For Data Engineers](https://youtu.be/vT7Oeu7WqHg?si=zWS0_PoE9c4ISa1N)
 
   - [[WITH Azure DevOps] Azure Data Engineering End-to-End Project](https://youtu.be/ESWqAZP2qA4?si=w0RtWjRzmLziKjzl)
