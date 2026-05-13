@@ -1,26 +1,5 @@
 # Data Engineering Roadmap [WITH FREE RESOURCES]
 
-Hey MY DATA FAM, now your DREAM JOB as a DATA ENGINEER is just a roadmap away! This ROADMAP is your ultimate guide to mastering the art of Data Engineering. Whether you're starting from scratch or looking to enhance your skills, this structured learning path will make you a PRO. 
-YKW, this ROADMAP has EVERYTHING - Tutorials, Courses, End-to-End Projects, Certifications, Interview Questions, Real-World Scenarios, and MUCH MORE.
-BUT!!! It requires dedication, practice, and a passion for data. So, buckle up and get ready to embark on an exciting journey into the world of Data Engineering!
-
-
-## About This Roadmap
-
-This is a COMPLETE **200+ HRS** of DATA ENGINEERING LEARNING PATH on YouTube [FOR FREE]. TRUST ME, this has already helped MANY PEOPLE to land their DREAM JOB as a DATA ENGINEER [I have already shared their testimonials in so many videos]. 
-BUT, why I am sharing this for FREE instead of charging thousands of dollars? Simple Reason : I want to GIVE BACK to the COMMUNITY that has given me so much. Knowledge should be accessible to everyone, and I believe in empowering individuals to achieve their career goals without financial barriers. And, I need your support to make this REPOSITORY a REVOLUTION in the DATA ENGINEERING COMMUNITY. So, just FORK, STAR, and SHARE this REPOSITORY with your FRIENDS and COLLEAGUES. 
-
-**Who is this for?**
-- Anyone want to become a DATA ENGINEER and actually dedicated to learning DATA ENGINEERING seriously. You can be from any background as long as you have the passion and dedication to learn.
-
-Let's make DATA ENGINEERING EDUCATION ACCESSIBLE to ALL TOGETHER!
-
-I want YOUR SUPPORT to make this REPOSITORY available to every single person who wants to become a DATA ENGINEER. So, 
-- STAR this Repository
-- FORK it [so that you will get the updates]
-- SHARE it [on LinkedIn and Tag me - will repost]
-
-
 
 ## Module 1: Non-Negotiables of Data Engineering
 
@@ -58,6 +37,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 - **PySpark Real-Time Scenarios**
   - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)
 
+EXTRA MODULE ADDED BY ME 
 
 ## Module 4: Git and GitHub - Bread and Butter for Data Engineers
 
@@ -77,11 +57,14 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 - **Azure Synapse Analytics**
   - [Azure Synapse Analytics - The Complete Guide](https://youtu.be/rd0ANdqQ72w?si=2hnR-45NkOQWSG2_)
 
+**Spark Structured Streaming - Real-Time Data Processing**
+  - [Spark Structured Streaming - The Complete Guide](https://youtu.be/r7FTCuTl84g?si=0oBNvR3MZ-h4p7Tg)
 
 ## Module 6: Databricks Tech Stack - The Most Demanded Skill right now for Data Engineers
 
 - **Databricks - The Complete Guide**
   - [Delta Lake - The Non Negotiable for Databricks Stack](https://youtu.be/HQvAl0Bwpu8?si=ChdUh86Wq8fkNl17)
+  - https://www.youtube.com/watch?v=PhezTpntdyY&t=4132s - Delta lake live table(me)
   - [Databricks Fundamentals For Data Engineers](https://youtu.be/7pee6_Sq3VY?si=AQLXmiiEyODQvq_u)
   - [Databricks Modern Architecture With Unity Catalog](https://youtu.be/P5pEeR3xQpI?si=2q_lPGiIpI0bpxok)
   - [Databricks Lakeflow Declarative Pipelines - Delta Live Tables](https://youtu.be/CCc6w8lkAek?si=Dz0qdLPOo2OjhAvW)
@@ -100,9 +83,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 - **DBT - Data Build Tool**
   - [DBT Masterclass](https://youtu.be/B8uwFmVt4sU?si=bDAZ3EtdDvIPVxLq)
 
-- **Spark Structured Streaming - Real-Time Data Processing**
-  - [Spark Structured Streaming - The Complete Guide](https://youtu.be/r7FTCuTl84g?si=0oBNvR3MZ-h4p7Tg)
-
+- 
 ## Module 9: End to End Data Engineering Projects [Key to the door of your DREAM JOB]
 This section is the HEART of this ROADMAP. Here, you will learn how to build COMPLETE DATA ENGINEERING PROJECTS from SCRATCH to DEPLOYMENT using the CONCEPTS and TECHNOLOGIES you have learned so far. There is NO ORDER to watch these videos. You can pick any project based on your INTEREST and TECHNOLOGY PREFERENCE. But yes, try to watch ALL of them bcz each PROJECT is UNIQUE and solving the REAL-WORLD PROBLEMS.
 
