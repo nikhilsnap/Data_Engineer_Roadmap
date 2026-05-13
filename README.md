@@ -37,7 +37,6 @@
 - **PySpark Real-Time Scenarios**
   - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)
 
-EXTRA MODULE ADDED BY ME 
 
 ## Module 4: Git and GitHub - Bread and Butter for Data Engineers
 
@@ -57,14 +56,13 @@ EXTRA MODULE ADDED BY ME
 - **Azure Synapse Analytics**
   - [Azure Synapse Analytics - The Complete Guide](https://youtu.be/rd0ANdqQ72w?si=2hnR-45NkOQWSG2_)
 
-**Spark Structured Streaming - Real-Time Data Processing**
-  - [Spark Structured Streaming - The Complete Guide](https://youtu.be/r7FTCuTl84g?si=0oBNvR3MZ-h4p7Tg)
 
 ## Module 6: Databricks Tech Stack - The Most Demanded Skill right now for Data Engineers
 
 - **Databricks - The Complete Guide**
   - [Delta Lake - The Non Negotiable for Databricks Stack](https://youtu.be/HQvAl0Bwpu8?si=ChdUh86Wq8fkNl17)
   - https://www.youtube.com/watch?v=PhezTpntdyY&t=4132s - Delta lake live table(me)
+  - https://www.youtube.com/watch?v=CCc6w8lkAek&t=1s - - Delta lake live pipeline
   - [Databricks Fundamentals For Data Engineers](https://youtu.be/7pee6_Sq3VY?si=AQLXmiiEyODQvq_u)
   - [Databricks Modern Architecture With Unity Catalog](https://youtu.be/P5pEeR3xQpI?si=2q_lPGiIpI0bpxok)
   - [Databricks Lakeflow Declarative Pipelines - Delta Live Tables](https://youtu.be/CCc6w8lkAek?si=Dz0qdLPOo2OjhAvW)
@@ -83,7 +81,9 @@ EXTRA MODULE ADDED BY ME
 - **DBT - Data Build Tool**
   - [DBT Masterclass](https://youtu.be/B8uwFmVt4sU?si=bDAZ3EtdDvIPVxLq)
 
-- 
+- **Spark Structured Streaming - Real-Time Data Processing**
+  - [Spark Structured Streaming - The Complete Guide](https://youtu.be/r7FTCuTl84g?si=0oBNvR3MZ-h4p7Tg)
+  - 
 ## Module 9: End to End Data Engineering Projects [Key to the door of your DREAM JOB]
 This section is the HEART of this ROADMAP. Here, you will learn how to build COMPLETE DATA ENGINEERING PROJECTS from SCRATCH to DEPLOYMENT using the CONCEPTS and TECHNOLOGIES you have learned so far. There is NO ORDER to watch these videos. You can pick any project based on your INTEREST and TECHNOLOGY PREFERENCE. But yes, try to watch ALL of them bcz each PROJECT is UNIQUE and solving the REAL-WORLD PROBLEMS.
 
