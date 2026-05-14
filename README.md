@@ -84,6 +84,8 @@ https://www.youtube.com/watch?v=fOCiis31Ng4 - pyspark - interview questions (ME)
 
 - **Spark Structured Streaming - Real-Time Data Processing**
   - [Spark Structured Streaming - The Complete Guide](https://youtu.be/r7FTCuTl84g?si=0oBNvR3MZ-h4p7Tg)
+ 
+  - pRACIRSE PYSPARK SCENARIO 2ND , 3RD
   - 
 ## Module 9: End to End Data Engineering Projects [Key to the door of your DREAM JOB]
 This section is the HEART of this ROADMAP. Here, you will learn how to build COMPLETE DATA ENGINEERING PROJECTS from SCRATCH to DEPLOYMENT using the CONCEPTS and TECHNOLOGIES you have learned so far. There is NO ORDER to watch these videos. You can pick any project based on your INTEREST and TECHNOLOGY PREFERENCE. But yes, try to watch ALL of them bcz each PROJECT is UNIQUE and solving the REAL-WORLD PROBLEMS.
