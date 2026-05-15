@@ -67,6 +67,7 @@ https://www.youtube.com/watch?v=fOCiis31Ng4 - pyspark - interview questions (ME)
   - https://www.youtube.com/watch?v=PhezTpntdyY&t=4132s - Delta lake live table(me)
   - [Databricks Fundamentals For Data Engineers](https://youtu.be/7pee6_Sq3VY?si=AQLXmiiEyODQvq_u)
   - [Databricks Modern Architecture With Unity Catalog](https://youtu.be/P5pEeR3xQpI?si=2q_lPGiIpI0bpxok)
+  - https://www.youtube.com/watch?v=GJa4YH4j-ic - unity catalog
   - [Databricks Lakeflow Declarative Pipelines - Delta Live Tables](https://youtu.be/CCc6w8lkAek?si=Dz0qdLPOo2OjhAvW)
   - [Databricks Lakeflow Jobs and Workflows](https://youtu.be/uNOQTmyeh3k?si=dHL5ZUd0hAWmO74y)
   - [Databricks SQL Warehouse - Full Course](https://youtu.be/BHfzkuBEiwI?si=Xe_a3JV3--nCG36c)
