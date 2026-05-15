@@ -11,6 +11,7 @@
 
   - https://www.youtube.com/watch?v=b0TCqhP2P7I&list=LL&index=9&t=6s - SQL part 2 (me)
 
+ - https://www.youtube.com/watch?v=4uKRzDf0zIc&t=4958s  for connection
 ## Module 2: Data Engineering Building Blocks
 
 - **Data Engineering Fundamentals**
