@@ -63,7 +63,8 @@ https://www.youtube.com/watch?v=fOCiis31Ng4 - pyspark - interview questions (ME)
 ## Module 6: Databricks Tech Stack - The Most Demanded Skill right now for Data Engineers
 
 - **Databricks - The Complete Guide**
-  - [Delta Lake - The Non Negotiable for Databricks Stack](https://youtu.be/HQvAl0Bwpu8?si=ChdUh86Wq8fkNl17)
+  -https://www.youtube.com/watch?v=O18afGTGoIU - delta lake 1st part
+    -  [Delta Lake - The Non Negotiable for Databricks Stack](https://youtu.be/HQvAl0Bwpu8?si=ChdUh86Wq8fkNl17)
   - https://www.youtube.com/watch?v=PhezTpntdyY&t=4132s - Delta lake live table(me)
   - [Databricks Fundamentals For Data Engineers](https://youtu.be/7pee6_Sq3VY?si=AQLXmiiEyODQvq_u)
   - [Databricks Modern Architecture With Unity Catalog](https://youtu.be/P5pEeR3xQpI?si=2q_lPGiIpI0bpxok)
