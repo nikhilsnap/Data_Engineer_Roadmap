@@ -38,6 +38,8 @@
 
 - **PySpark Real-Time Scenarios**
   - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)
+ 
+    -https://www.youtube.com/watch?v=CY_WaxCxJco pyspark optimization **
 
 https://www.youtube.com/watch?v=fOCiis31Ng4 - pyspark - interview questions (ME)
 
@@ -74,6 +76,7 @@ https://www.youtube.com/watch?v=fOCiis31Ng4 - pyspark - interview questions (ME)
   - [Databricks SQL Warehouse - Full Course](https://youtu.be/BHfzkuBEiwI?si=Xe_a3JV3--nCG36c)
   - [Databricks Asset Bundles and CICD](https://youtu.be/Yz0pTr7LYG4?si=U6uKB4SDIxtMuc6N)
 
+reead pyspark optimaztaion (above)
 
 ## Module 7: Microsoft Fabric Tech Stack- The New Player in Data Engineering World
 - **Microsoft Fabric - The Complete Guide**
